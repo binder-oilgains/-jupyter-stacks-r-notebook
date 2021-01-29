@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks-r-notebook/main)
 
-Repo: https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
+Repo: https://github.com/jupyter/docker-stacks/tree/master/r-notebook
 
 Sometimes you just want to inherit from one of the pre-built images
 maintained by the Jupyter Project's [Docker Stacks](https://github.com/jupyter/docker-stacks),
