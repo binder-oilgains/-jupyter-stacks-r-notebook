@@ -1,4 +1,4 @@
-# Using a Docker image from the Jupyter `docker-stacks-tensorflow` repository
+# Using a Docker image from the Jupyter `docker-stacks-r-notebook` repository
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks-r-notebook/main)
 
